@@ -8,6 +8,16 @@ In this project, ECG signal simulation is done in order to test an actual heartb
 
 All methods are implemented using Arduino Due.
 
+## Practical Results
+
+### Accurate Programmable Method
+
+![20191102_103227](https://user-images.githubusercontent.com/30368346/120008463-365c3180-bff0-11eb-9bd1-b704d402224c.jpg)
+
+### Fourier Series Method
+
+![20191109_003349](https://user-images.githubusercontent.com/30368346/120008508-4247f380-bff0-11eb-8127-53180459caf1.jpg)
+
 ## References
 
 ### Fourier series method
